@@ -1,0 +1,21 @@
+.header {
+  background-color: #0070f3;
+  padding: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+}
+
+.main {
+  padding: 2rem;
+}
+
+.footer {
+  background-color: #eee;
+  text-align: center;
+  padding: 1rem;
+}
